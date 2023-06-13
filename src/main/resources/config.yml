@@ -1,0 +1,22 @@
+# ______    _        _____  _
+#|  ____|  | |      |  __ \| |
+#| |__ __ _| | _____| |__) | | __ _ _   _  ___ _ __ ___
+#|  __/ _` | |/ / _ \  ___/| |/ _` | | | |/ _ \ '__/ __|
+#| | | (_| |   <  __/ |    | | (_| | |_| |  __/ |  \__ \
+#|_|  \__,_|_|\_\___|_|    |_|\__,_|\__, |\___|_|  |___/
+#                                    __/ |
+#                                   |___/
+#          BungeeFakePlayers V1.0.0 By Seauxz
+
+
+# Minimum number of players displayed
+minPlayers: 100
+
+# Maximum number of players displayed
+maxPlayers: 2000
+
+# Minimum interval (in seconds) between player count changes
+minInterval: 1
+
+# Maximum interval (in seconds) between player count changes
+maxInterval: 160
